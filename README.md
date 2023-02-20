@@ -1,6 +1,6 @@
 # CAD and Applications
 
-Semester project for course DPMS_AS/1104 - CAD and Application, School of Mechanical Engineering, 
+Semester project for course DPMS_AS/1104 - CAD and Applications, School of Mechanical Engineering, 
 National Technical University of Athens.
 
 ## Design
